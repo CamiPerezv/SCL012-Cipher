@@ -1,15 +1,162 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root">
-      <h1>Hola mundo!</h1>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Cifrar</title>
+</head>
+<body>
+<div class="container2">
+    
+        
+        
+
+ <!--BIENVEDIDA-->
+
+<div id="bienvenida">
+
+ <div class="logo"></div>
+ <div class="namelogo">
+     <h1>Top Secret!</h1>
+ </div>
+ 
+ <div class="description">
+ ¿Cuántas veces hemos querido enviar un mensaje pero sin que todo el mundo lo vea?, Contarle un secreto a tu amiga tal vez. Acá podras cifrar el mensaje que quieras, y también podras descifrarlo si es que lo deseas.
+
+     <div class="question">
+     ¿Qué deseas hacer?
+     </div>
+
+ </div>  
+
+ <div class="contBtn">
+          <button id="mostrarCifrar">Cifrar</button> <!-- muestra cifrar, oculta descifrar y bienvenida -->
+          <button id="mostrarDescifrar">Descifrar</button><!-- muestra descifrar, oculta codificar y bienvenida -->
+ </div>
+
+</div>
+<!--FIN BIENVENIDA -->
+
+
+<!--CODIFICAR-->
+
+
+    <div id="codificar">
+        <button id="botonAtras">&#60;</button><!-- muestra bienvenida, oculta cifrar y descifrar-->
+    <!-- introducción a la pagina -->
+
+     <a href="index.html"><div class="logo2"></div></a>
+
+    
+        <div class="description2">
+            En esta sección podremos cifrar un mensaje. Para cifrarlo necesitaremos seleccionar un número, el cual nos indique cuántas posiciones se desplazará cada letra que tendra nuestro mensaje. ¡Y listo!   </div>  
+
+    <div class="contTitle"> 
+       <div class="title1"><p>Mensaje</p></div> 
+       <div class="title2"><p>Resultado</p></div> 
     </div>
-    <script src="cipher.js"></script>
-    <script src="index.js"></script>
-  </body>
+
+
+    <div class="contbox">
+
+        <!-- ingresar texto a cifrar-->
+        <textarea type="text" id="ingresaTexto" class="box1" placeholder="Ingresa texto"></textarea>
+
+        <!-- resultado del texto cifrado-->
+        <textarea type="text" id="resultadocifrar" class="box1" placeholder="Tu resultado aparecerá aquí"></textarea>
+        
+    </div>
+        <!-- limpiar o copiar resultado-->
+        <div class="barrabotones">
+                  
+            <button id="limpiarbox" >Limpiar</button>
+        </div>
+            
+        <!-- numero de desplazamiento-->
+    <div class="contNumber">
+        <p>Seleccionar número de desplazamiento</p>
+        <input type="number" id="desplazamiento" min="1">
+    </div>
+
+        <!-- boton para cifrar-->
+     <div class="contBtn">
+        <button id="cifrar">Cifrar</button>          
+    </div>
+
+
+    </div>
+
+<!--FIN CODIFICAR-->
+
+
+
+<!-- DECODIFICAR-->
+
+
+
+    <div id="decodificar">
+            
+        <button id="botonAtras2">&#60;</button><!-- muestra bienvenida, oculta cifrar y descifrar-->
+      
+            <!-- introducción a la pagina -->
+            
+             <a href="index.html"><div class="logo2"></div></a>
+
+        
+                <div class="description2">
+                    En esta sección podremos descifrar un mensaje. Para ello necesitaremos ingresar el texto previamente cifrado y recordar el numero de desplazamiento, el cual nos indique cuántas posiciones se desplazará cada letra que tendra nuestro mensaje. ¡Y listo!   </div>  
+        
+            <div class="contTitle"> 
+               <div class="title1"><p>Mensaje</p></div> 
+               <div class="title2"><p>Resultado</p></div> 
+            </div>
+        
+        
+            <div class="contbox">
+        
+                <!-- ingresar texto a descifrar-->
+                <textarea type="text" id="ingresaTextoCifrado" class="box1" placeholder="Ingresa texto"></textarea>
+        
+                <!-- resultado del texto descifrado-->
+                <textarea type="text" id="resultadodescifrar" class="box1" placeholder="Tu resultado aparecerá aquí"></textarea>
+            </div>
+                <!-- limpiar o copiar resultado-->
+                <div class="barrabotones">
+                          
+                    <button id="limpiarboxdeco" >Limpiar</button>
+                </div>
+
+                
+                    
+                <!-- numero de desplazamiento-->
+            <div class="contNumber">
+                <p>Seleccionar número de desplazamiento</p>
+                <input type="number" id="desplazamientoDescifrar" min="1">
+            </div>
+        
+                <!-- boton para descifrar-->
+             <div class="contBtn">
+            <button id="descifrar">Descifrar</button>          
+            </div>
+        
+        
+        
+              
+         
+    
+    </div>
+          <!--FIN DECODIFICAR-->
+            
+        
+        
+
+       
+
+
+</div>
+<script type="text/javascript" src="cipher.js"></script>
+<script type="text/javascript" src="index.js"></script>
+</body>
 </html>
