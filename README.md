@@ -28,7 +28,7 @@ o de posiciones (desplazamiento) más adelante (o antes en el caso del descifrad
 En el proceso de diseño del proyecto se realizó un sketch a mano alzada con ideas iniciales de la pagina web. En este proceso lo primordial fue que cada pantalla tuviera lo necesario para que el usuario pudiera interactuar de forma fluida.
 una pantalla que contenga 2 opciones de codificar o decodificar y otra pantalla con 2 cajas de texto en el que pueda ingresar el mensaje y otra para ver el resultado. una opcion de seleccionar numero de desplazamiento y un botor para realizar la acción de preferencia.
 
-![prototipo1](img\Mockup1.png)
+![prototipo1](https://github.com/CamiPerezv/SCL012-Cipher/blob/master/src/img/Mockup1.png?raw=true)
 
 # prototipo de baja fidelidad
 

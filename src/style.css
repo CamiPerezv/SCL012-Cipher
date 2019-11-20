@@ -61,16 +61,6 @@ body{
     
   }
 
-.container{
-    background-color:rgba(255, 255, 255, 0.7);
-    width: 1200px;
-    height: 490px;
-    margin: 5rem;
-    padding: 5rem;
-    padding-top: 1rem;
-    text-align: center;
-}
-
 .logo{
     background-size: cover;
     background-image: url(img/logo2.jpg);
@@ -230,13 +220,6 @@ margin-left: 1090px;
 
 }
 
-
-#copiartexto:hover{
-    color: #d356c8;
-    background-color: #ffffff;
-    margin-left: auto;
-    margin-right: auto;
-  }
 
 #limpiarbox{
     width:80px;
