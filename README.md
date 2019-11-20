@@ -28,8 +28,8 @@ En el proceso de diseño del proyecto se realizó un sketch a mano alzada con id
 una pantalla que contenga 2 opciones de codificar o decodificar y otra pantalla con 2 cajas de texto en el que pueda ingresar el mensaje y otra para ver el resultado. una opcion de seleccionar numero de desplazamiento y un botor para realizar la acción de preferencia.
 
 
-![prototiposketch](https://github.com/CamiPerezv/SCL012-Cipher/blob/master/src/img/sketch.png?raw=true)
-![prototiposketch2](https://github.com/CamiPerezv/SCL012-Cipher/blob/master/src/img/sketch2.png?raw=true)
+![prototiposketch](https://github.com/CamiPerezv/SCL012-Cipher/blob/master/src/img/sketch.jpg)
+![prototiposketch2](https://github.com/CamiPerezv/SCL012-Cipher/blob/master/src/img/sketch2.jpg)
 
 # prototipo de baja fidelidad
 
@@ -54,7 +54,7 @@ una pantalla que contenga 2 opciones de codificar o decodificar y otra pantalla 
 
 - dos pantallas similares en la cual existiera una breve introducción y pasos a realizar. una caja de texto para ingresar el mensaje y otra para mostrar el resultado. una sección para poder seleccionar un numero de desplazamiento. y un boton que ejecutará la acción del cifrao o descifrado dependiendo de lo que requiera el usuario. Para darle la opción de volver a alegir una opción se crea un boton "atras" el que deriva a a pantalla inicial de la pagina.
 
-![prototipoalta](https://www.figma.com/proto/p3dzDdmuCbiN8qnkQxRnUc/cipher?node-id=3%3A2&scaling=scale-down)
+(https://www.figma.com/proto/p3dzDdmuCbiN8qnkQxRnUc/cipher?node-id=3%3A2&scaling=scale-down)
 
 
 
