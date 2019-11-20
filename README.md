@@ -54,9 +54,9 @@ una pantalla que contenga 2 opciones de codificar o decodificar y otra pantalla 
 
 - dos pantallas similares en la cual existiera una breve introducción y pasos a realizar. una caja de texto para ingresar el mensaje y otra para mostrar el resultado. una sección para poder seleccionar un numero de desplazamiento. y un boton que ejecutará la acción del cifrao o descifrado dependiendo de lo que requiera el usuario. Para darle la opción de volver a alegir una opción se crea un boton "atras" el que deriva a a pantalla inicial de la pagina.
 
-(https://www.figma.com/proto/p3dzDdmuCbiN8qnkQxRnUc/cipher?node-id=3%3A2&scaling=scale-down)
 
 
+[figma](https://www.figma.com/proto/p3dzDdmuCbiN8qnkQxRnUc/cipher?node-id=3%3A2&scaling=scale-down)
 
 
 
