@@ -6,9 +6,9 @@ Si nos centramos en el contexto personal, como lo es la amistad entre mujeres de
 
 Algunos ejemplos:
 
- -Contarle un secreto a una amiga, pero ella se encuentra en un lugar donde posiblemente se pueda filtrar. 
- -Se enteró de algo y quiere decirlo a alguien, pero no puede ser muy explícita al redactarlo.
- -Está chateando en el transporte publico y no quiere que la persona que va a su lado lea sus mensajes.
+ - Contarle un secreto a una amiga, pero ella se encuentra en un lugar donde posiblemente se pueda filtrar. 
+ - Se enteró de algo y quiere decirlo a alguien, pero no puede ser muy explícita al redactarlo.
+ - Está chateando en el transporte publico y no quiere que la persona que va a su lado lea sus mensajes.
 
 # El proyecto
 
@@ -20,12 +20,17 @@ Para lograr esto se basará en el Cifrado Cesar. Es una de las técnicas más si
 
 # test de usabilidad 
 
+[Video Nº1](https://www.loom.com/share/a989c81de5ca4ae49f986f7eabd4efcf)
+[Video Nº1](https://www.loom.com/share/ec6216d8a60e4999ac9ccef4aebb78af)
+[Video Nº1](https://www.loom.com/share/6f292ad6767e4831ad6f916b3226470c)
+[Video Nº1](https://www.loom.com/share/d87ccbba799045f1bfbf7db2e65fff9f)
+[Video Nº1](https://www.loom.com/share/377d460c701143c6b5b8dec756871726)
 
 
-# incluye info sobre proceso y decisiones de diseño.
+# Procesos y decisiones de diseño.
 
+Sketch
 
-# sketch
 En el proceso de diseño del proyecto se realizó un sketch a mano alzada con ideas iniciales de la pagina web. En este proceso lo primordial fue que cada pantalla tuviera lo necesario para que el usuario pudiera interactuar de forma fluida.
 una pantalla que contenga 2 opciones de codificar o decodificar y otra pantalla con 2 cajas de texto en el que pueda ingresar el mensaje y otra para ver el resultado. una opcion de seleccionar numero de desplazamiento y un botor para realizar la acción de preferencia.
 
@@ -33,7 +38,7 @@ una pantalla que contenga 2 opciones de codificar o decodificar y otra pantalla 
 ![prototiposketch](https://github.com/CamiPerezv/SCL012-Cipher/blob/master/src/img/sketch.jpg)
 ![prototiposketch2](https://github.com/CamiPerezv/SCL012-Cipher/blob/master/src/img/sketch2.jpg)
 
-# Prototipo de Baja fidelidad
+Prototipo de Baja fidelidad
 
 - En este proceso se traspasa el sketch a un prototipo digital, en el que de a poco se va acercando al diseño final. se ocupará la herramienta Balsamiq, la que nos permitirá obtener recursos ya predeterminados para ayudandonos en al realizacion del diseño.
 
@@ -43,7 +48,7 @@ una pantalla que contenga 2 opciones de codificar o decodificar y otra pantalla 
 
 
 
-# Prototipo de Alta fidelidad 
+Prototipo de Alta fidelidad 
 
  Para acercarse al prototipo final, en esta instancia se ocupará la plataforma Figma, que permite acercarse al diseño final, aplicando imagenes, colores y dandole interacción a la pagina web. 
  En este caso, basandose en la psicologia del color, se ocuparán tonalidades rosas, que dice: El color rosa es un color relajante que influye en los sentimientos invitándolos a ser amables, suaves, e induciendo de esta forma a sentir cariño y protección. lo que calza perfecto con nuesta intención de generar un ambiente de confianza entre amigas.
@@ -53,7 +58,7 @@ una pantalla que contenga 2 opciones de codificar o decodificar y otra pantalla 
 - Pantalla de bienvenida: Contará con una breve introducción creando un contexto. y dandole la opcion al usuario de cual es la acción que desea realizar.
 
 - Pantallas cifrado/descifrado: En ambas existirá una breve introducción y pasos a realizar. Una caja de texto para ingresar el mensaje y otra para mostrar el resultado. Una sección para poder seleccionar un numero de desplazamiento. Y un botón que ejecutará la acción del cifrao o descifrado dependiendo de lo que requiera el usuario. Para darle la opción de volver a alegir una opción. Se crea un botón "atrás" el que deriva a a pantalla inicial de la pagina. Y finalmente un botón limpiar el cual dejara los espacios vacios para volver a cifrar o descifrar.
-
+- En la realización de proyecto se ocupará el programa Visual Studio Code 
 
 
 [VER PROTOTIPO AQUÍ](https://www.figma.com/proto/p3dzDdmuCbiN8qnkQxRnUc/cipher?node-id=3%3A2&scaling=scale-down)
