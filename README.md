@@ -56,7 +56,7 @@ una pantalla que contenga 2 opciones de codificar o decodificar y otra pantalla 
 
 
 
-[figma](https://www.figma.com/proto/p3dzDdmuCbiN8qnkQxRnUc/cipher?node-id=3%3A2&scaling=scale-down)
+[VER PROTOTIPO AQUÍ](https://www.figma.com/proto/p3dzDdmuCbiN8qnkQxRnUc/cipher?node-id=3%3A2&scaling=scale-down)
 
 
 
