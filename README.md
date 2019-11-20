@@ -1,19 +1,23 @@
 
-# explica claramente quiénes son los usuarios y su relación con el producto.
+# Top Secret
+
+# Introducción
 
 En la actualidad, existen varia situciones en las que nos vemos obligados a buscar la forma de enviar mensajes sin que el resto se entere. ya sea en contexto personal, laboral, profecional, etc.
-Si nos centramos en el contexto personal, como lo es la amistad entre mujeres de entre 20-30. Podemos ver que mas de alguna vez nos hemos visto envueltos en esta situación. 
+Si nos centramos en el contexto personal, como lo es la amistad entre mujeres de entre 20-30. Podemos ver que mas de alguna vez se han visto envueltas en esta situación. 
 
-Ejemplos:
+Algunos ejemplos:
 
- -Necesitas contarle un secreto a tu amiga pero ella se encuentra en un lugar donde es seguro que se pueda filtrar. 
- -Te enteraste de algo y quieres decirlo a alguien, pero no puedes ser muy literal al redactarlo.
- -Estas chateando, vas en el transporte publico y no quieres que la persona que va a tu lado lea tus mensajes.
+ -Necesita contarle un secreto a una amiga, pero ella se encuentra en un lugar donde posiblemente se pueda filtrar. 
+ -Se enteró de algo y quiere decirlo a alguien, pero no puede ser muy explícita al redactarlo.
+ -Está chateando en el transporte publico y no quiere que la persona que va a su lado lea sus mensajes.
 
-# explica claramente cómo el producto soluciona los problemas/necesidades de los usuarios.
+# El proyecto
 
-Este proyecto lo que busca es facilitar la comunicación en situaciones complejas entre el grupo mas cercano de amigas. 
-¿De que forma? - creando una aplicación que permita cifrar mensajes y descifrarlos. Para esto nos basaremos en el Cifrado Cesar. Es una de las técnicas más simples para cifrar un mensaje. Es un tipo de cifrado por sustitución, es decir que cada letra del texto original es reemplazada por otra que se encuentra un número fij
+Lo que se busca es facilitar la comunicación en situaciones complejas entre el grupo mas cercano de amigas. 
+¿De qué forma?, creando una página web que permita cifrar mensajes y descifrarlos. 
+
+Para lograr esto nos basaremos en el Cifrado Cesar. El una de las técnicas más simples para cifrar un mensaje. Es un tipo de cifrado por sustitución, es decir que cada letra del texto original es reemplazada por otra que se encuentra un número fij
 o de posiciones (desplazamiento) más adelante (o antes en el caso del descifrado) en el mismo alfabeto.
 
 
@@ -22,6 +26,7 @@ o de posiciones (desplazamiento) más adelante (o antes en el caso del descifrad
 
 
 # incluye info sobre proceso y decisiones de diseño.
+
 
 # sketch
 En el proceso de diseño del proyecto se realizó un sketch a mano alzada con ideas iniciales de la pagina web. En este proceso lo primordial fue que cada pantalla tuviera lo necesario para que el usuario pudiera interactuar de forma fluida.
